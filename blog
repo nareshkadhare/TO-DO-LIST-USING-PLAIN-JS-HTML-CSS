@@ -1,0 +1,93 @@
+======================================================================================================
+					Admin Panel
+======================================================================================================
+
+1.CategoryManagment
+	---- main,and Sub Category Like Udemy(parent,child cateogry)
+
+2.Usermanagement
+	---- instructor,student,visitor
+
+3.Artical/Blog Management
+	---- own(admin) can add blog or article
+
+4.Question Management
+	---- student questions(like,comments,views),status
+
+5.Answer Management
+	---- instructor answer(like,comments,views),status
+
+6.Course Order Management
+	---- Course purchase details
+
+7. News Management
+	
+8. Certificate Management
+
+9.ContactUs
+
+10.feedBack
+
+
+======================================================================================================
+					Instructor Panel
+======================================================================================================
+
+
+1.Design Course
+	
+2.Course Index
+
+3.Course Articles
+	- images,content,videos
+
+4.Answers Management
+	- student question answers,like,comment,status
+
+5.Course Purchase
+
+6.Assignment Management
+
+7.Certification
+
+8.Chatting
+
+
+
+
+
+======================================================================================================
+					Student Panel
+======================================================================================================
+
+1.Search And Purchase Course
+	---- category wise,name,price wise,author
+
+
+2.Search Articles/blog and Questions Answer
+	---- category wise,name,author wise
+
+
+3.Questions
+	---- add,status manage
+
+4.like,comment,view on answer
+
+5.timely assignment
+
+6.chat with instructor
+
+7.online exam(optional)
+
+
+
+
+
+
+
+
+
+
+
+
+
