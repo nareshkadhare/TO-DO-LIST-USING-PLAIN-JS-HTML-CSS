@@ -85,6 +85,15 @@
 
 
 
+$('.confirmation').on('click', function (e) {
+  e.preventDefault();
+  href = $(this).attr('href');
+  return bootbox.confirm('Are you sure?', function(result) {
+    if (result) {
+      window.location = href
+    }
+  });
+});
 
 
 
