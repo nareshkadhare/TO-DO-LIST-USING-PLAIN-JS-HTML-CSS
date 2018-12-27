@@ -1,2 +1,1 @@
-# todoList
-ToDoList Using HTML,Javascript,CSS
+# ToDoList Using HTML,Javascript,CSS
